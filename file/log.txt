@@ -1,0 +1,51 @@
+[                          ]%0  Loading: 0 de 25
+
+[ =                        ]%4  Loading: 1 de 25  m
+
+[ =-                       ]%8  Loading: 2 de 25  ma
+
+[ ==-                      ]%12 Loading: 3 de 25  mat
+
+[ ===-                     ]%16 Loading: 4 de 25  mate
+
+[ ====-                    ]%20 Loading: 5 de 25  mateo
+
+[ =====-                   ]%24 Loading: 6 de 25  mateo.
+
+[ ======-                  ]%28 Loading: 7 de 25  mateo.c
+
+[ =======-                 ]%32 Loading: 8 de 25  mateo.ca
+
+[ ========-                ]%36 Loading: 9 de 25  mateo.car
+
+[ =========-               ]%40 Loading: 10 de 25  mateo.carr
+
+[ ==========-              ]%44 Loading: 11 de 25  mateo.carri
+
+[ ===========-             ]%48 Loading: 12 de 25  mateo.carril
+
+[ ============-            ]%52 Loading: 13 de 25  mateo.carrill
+
+[ =============-           ]%56 Loading: 14 de 25  mateo.carrillo
+
+[ ==============-          ]%60 Loading: 15 de 25  mateo.carrillo@
+
+[ ===============-         ]%64 Loading: 16 de 25  mateo.carrillo@e
+
+[ ================-        ]%68 Loading: 17 de 25  mateo.carrillo@ep
+
+[ =================-       ]%72 Loading: 18 de 25  mateo.carrillo@epn
+
+[ ==================-      ]%76 Loading: 19 de 25  mateo.carrillo@epn.
+
+[ ===================-     ]%80 Loading: 20 de 25  mateo.carrillo@epn.e
+
+[ ====================-    ]%84 Loading: 21 de 25  mateo.carrillo@epn.ed
+
+[ =====================-   ]%88 Loading: 22 de 25  mateo.carrillo@epn.edu
+
+[ ======================-  ]%92 Loading: 23 de 25  mateo.carrillo@epn.edu.
+
+[ =======================- ]%96 Loading: 24 de 25  mateo.carrillo@epn.edu.e
+
+[ =========================]%100        Loading: 25 de 25  mateo.carrillo@epn.edu.ec
