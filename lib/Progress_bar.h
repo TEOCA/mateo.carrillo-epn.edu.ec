@@ -44,7 +44,7 @@ void showProgressBar_a(int k, int longitud){
     int cantidad=25, cantidad2;
     int count = 0, count2=0, count3=1;
     FILE *fichero = fopen("file/log.txt", "w");
-    while(count<longitud +1);
+    while(count<longitud +1)
     {
 
         fflush(stdin);
